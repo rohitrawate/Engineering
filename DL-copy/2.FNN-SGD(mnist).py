@@ -43,6 +43,7 @@ n=random.randint(0,9999)
 plt.imshow(x_test[n])
 plt.show()
 
+
 x_train
 
 x_test
